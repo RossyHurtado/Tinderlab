@@ -1,0 +1,104 @@
+
+
+.card{
+   position:relative;
+   width:340px;
+   height: 535px;
+   top: 10px ;
+   bottom: 5px;
+   left: 190px;
+   padding: 0% 0% 0% 0%;
+   margin: 10%;
+   background: rgb(252, 252, 252);
+   box-shadow: 15px 15px 60px rgba(0,0,0,0.15);
+   padding: 40px;
+   border-radius: 5%;
+}
+
+.megusta{
+   position: relative;
+   width: 25%;
+   height: auto;
+   bottom:680px;
+   left:367px;
+   z-index: 1;
+   border-radius: 4%;
+}
+
+
+.person{
+   position: relative;
+   width: 25%;
+   height: auto;
+   bottom:680px;
+   left:367px;
+   z-index: 1;
+
+}
+
+.info{
+   position:relative;
+   font-family: Helvetica;
+   font-size: 5.5pt;
+   bottom:1030px;
+   left:380px;
+
+}
+.logo{
+   position:absolute;
+   width:5%;
+   height: auto;
+   top:165px;
+   left: 510px;
+}
+.people{
+   position:absolute;
+   width:15%;
+   height: auto;
+   top:130px;
+   left: 290px;
+}
+
+.bubble{
+   position:absolute;
+   width:3%;
+   height: auto;
+   top:170px;
+   left: 680px;
+
+}
+
+.rewind{
+   position:absolute;
+   width:20%;
+   height: auto;
+   top:628px;
+   left: 450px;
+   border-radius: 100%;
+
+}
+
+.cora{
+   position:absolute;
+   width:20%;
+   height: auto;
+   top:630px;
+   bottom:200px;
+   left: 500px;
+   border-radius: 100%;
+}
+
+
+.fav{
+   
+   position:absolute;
+   width:20%;
+   height: auto;
+   top:630px;
+   bottom:200px;
+   left: 500px;
+   border-radius: 100%;
+}
+
+
+
